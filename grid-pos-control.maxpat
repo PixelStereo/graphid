@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 59.0, 104.0, 640.0, 480.0 ],
+		"rect" : [ 679.0, 158.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -37,6 +37,32 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-7",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "", "", "" ],
+					"patching_rect" : [ 224.0, 89.0, 151.0, 22.0 ],
+					"style" : "",
+					"text" : "ossia.remote /matrix/pos.1"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-5",
+					"linecount" : 18,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 368.0, 203.0, 241.0, 248.0 ],
+					"style" : "",
+					"text" : "{\n\t\"A1\" : [ -0.62, 0.62 ],\n\t\"A2\" : [ -0.206667, 0.62 ],\n\t\"A3\" : [ 0.206667, 0.62 ],\n\t\"A4\" : [ 0.62, 0.62 ],\n\t\"B1\" : [ -0.62, 0.206667 ],\n\t\"B2\" : [ -0.206667, 0.206667 ],\n\t\"B3\" : [ 0.206667, 0.206667 ],\n\t\"B4\" : [ 0.62, 0.206667 ],\n\t\"C1\" : [ -0.62, -0.206667 ],\n\t\"C2\" : [ -0.206667, -0.206667 ],\n\t\"C3\" : [ 0.206667, -0.206667 ],\n\t\"C4\" : [ 0.62, -0.206667 ],\n\t\"D1\" : [ -0.62, -0.62 ],\n\t\"D2\" : [ -0.206667, -0.62 ],\n\t\"D3\" : [ 0.206667, -0.62 ],\n\t\"D4\" : [ 0.62, -0.62 ]\n}\n"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-6",
@@ -70,7 +96,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 232.0, 98.0, 60.0, 22.0 ],
+					"patching_rect" : [ 323.0, 125.0, 60.0, 22.0 ],
 					"style" : "",
 					"text" : "loadbang"
 				}
@@ -319,7 +345,11 @@
 
 			}
  ],
-		"dependency_cache" : [  ],
+		"dependency_cache" : [ 			{
+				"name" : "ossia.remote.mxo",
+				"type" : "iLaX"
+			}
+ ],
 		"autosave" : 0
 	}
 
