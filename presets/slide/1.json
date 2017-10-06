@@ -1,18 +1,6 @@
-{
-    "slide": {
-        "slide": {
-            "color": {
-                "down": 50.0,
-                "up": 50.0
-            },
-            "pos": {
-                "down": 50.0,
-                "up": 50.0
-            },
-            "rot": {
-                "down": 50.0,
-                "up": 50.0
-            }
-        }
-    }
-}
+/slide/color/down	float: 50
+/slide/color/up	float: 50
+/slide/pos/down	float: 50
+/slide/pos/up	float: 50
+/slide/rot/down	float: 50
+/slide/rot/up	float: 50

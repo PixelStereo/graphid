@@ -1,176 +1,70 @@
-{
-    "matrix": {
-        "matrix": {
-            "color": {
-                "alpha": [
-                    null,
-                    0.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "blue": [
-                    null,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "green": [
-                    null,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0
-                ],
-                "red": [
-                    null,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0
-                ]
-            },
-            "model": {
-                "dim": [
-                    8.0,
-                    8.0
-                ],
-                "line_width": 0.5,
-                "point_size": 0.5,
-                "poly_mode": [
-                    0.0
-                ],
-                "shape": "plane"
-            },
-            "pos": {
-                "cell": [
-                    null,
-                    0,
-                    1,
-                    2,
-                    3,
-                    4,
-                    5,
-                    6,
-                    7,
-                    8,
-                    9,
-                    10,
-                    11,
-                    12,
-                    13,
-                    14,
-                    15
-                ]
-            },
-            "rot": {
-                "x": [
-                    null,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "y": [
-                    null,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ],
-                "z": [
-                    null,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0,
-                    0.0
-                ]
-            }
-        }
-    }
-}
+/matrix/color.1	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.10	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.11	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.12	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.13	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.14	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.15	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.16	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.2	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.3	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.4	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.5	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.6	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.7	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.8	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/color.9	vec4f: [0.936379, 0.56098, 0.605512, 0.7]
+/matrix/dim	vec2f: [8, 8]
+/matrix/enable.1	bool: 1
+/matrix/enable.10	bool: 0
+/matrix/enable.11	bool: 0
+/matrix/enable.12	bool: 0
+/matrix/enable.13	bool: 0
+/matrix/enable.14	bool: 0
+/matrix/enable.15	bool: 0
+/matrix/enable.16	bool: 0
+/matrix/enable.2	bool: 1
+/matrix/enable.3	bool: 1
+/matrix/enable.4	bool: 1
+/matrix/enable.5	bool: 0
+/matrix/enable.6	bool: 0
+/matrix/enable.7	bool: 0
+/matrix/enable.8	bool: 0
+/matrix/enable.9	bool: 0
+/matrix/line_width	float: 0.5
+/matrix/point_size	float: 0.5
+/matrix/poly_mode	list: [float: 0, float: 0]
+/matrix/pos.1	float: 1
+/matrix/pos.10	float: 10
+/matrix/pos.11	float: 11
+/matrix/pos.12	float: 12
+/matrix/pos.13	float: 13
+/matrix/pos.14	float: 14
+/matrix/pos.15	float: 15
+/matrix/pos.16	float: 16
+/matrix/pos.2	float: 2
+/matrix/pos.3	float: 3
+/matrix/pos.4	float: 4
+/matrix/pos.5	float: 5
+/matrix/pos.6	float: 6
+/matrix/pos.7	float: 7
+/matrix/pos.8	float: 8
+/matrix/pos.9	float: 9
+/matrix/rot.1	vec4f: [0, 0, 0, 0]
+/matrix/rot.10	vec4f: [0, 0, 0, 0]
+/matrix/rot.11	vec4f: [0, 0, 0, 0]
+/matrix/rot.12	vec4f: [0, 0, 0, 0]
+/matrix/rot.13	vec4f: [0, 0, 0, 0]
+/matrix/rot.14	vec4f: [0, 0, 0, 0]
+/matrix/rot.15	vec4f: [0, 0, 0, 0]
+/matrix/rot.16	vec4f: [0, 0, 0, 0]
+/matrix/rot.2	vec4f: [0, 0, 0, 0]
+/matrix/rot.3	vec4f: [0, 0, 0, 0]
+/matrix/rot.4	vec4f: [0, 0, 0, 0]
+/matrix/rot.5	vec4f: [0, 0, 0, 0]
+/matrix/rot.6	vec4f: [0, 0, 0, 0]
+/matrix/rot.7	vec4f: [0, 0, 0, 0]
+/matrix/rot.8	vec4f: [0, 0, 0, 0]
+/matrix/rot.9	vec4f: [0, 0, 0, 0]
+/matrix/shape	string: plane
+/matrix/texture	string: white
