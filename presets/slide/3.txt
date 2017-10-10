@@ -1,0 +1,6 @@
+/slide/color/down	float: 200
+/slide/color/up	float: 200
+/slide/pos/down	float: 200
+/slide/pos/up	float: 200
+/slide/rot/down	float: 200
+/slide/rot/up	float: 200

@@ -1,6 +1,6 @@
 /matrix/color.1	vec4f: [1, 1, 1, 1]
-/matrix/color.10	vec4f: [1, 1, 1, 1]
-/matrix/color.11	vec4f: [1, 1, 1, 1]
+/matrix/color.10	vec4f: [0, 0, 0, 0]
+/matrix/color.11	vec4f: [0, 0, 0, 0]
 /matrix/color.12	vec4f: [1, 1, 1, 1]
 /matrix/color.13	vec4f: [1, 1, 1, 1]
 /matrix/color.14	vec4f: [1, 1, 1, 1]
@@ -10,14 +10,14 @@
 /matrix/color.3	vec4f: [1, 1, 1, 1]
 /matrix/color.4	vec4f: [1, 1, 1, 1]
 /matrix/color.5	vec4f: [1, 1, 1, 1]
-/matrix/color.6	vec4f: [1, 1, 1, 1]
-/matrix/color.7	vec4f: [1, 1, 1, 1]
+/matrix/color.6	vec4f: [0, 0, 0, 0]
+/matrix/color.7	vec4f: [0, 0, 0, 0]
 /matrix/color.8	vec4f: [1, 1, 1, 1]
 /matrix/color.9	vec4f: [1, 1, 1, 1]
 /matrix/dim	vec2f: [8, 8]
 /matrix/enable.1	bool: 1
-/matrix/enable.10	bool: 1
-/matrix/enable.11	bool: 1
+/matrix/enable.10	bool: 0
+/matrix/enable.11	bool: 0
 /matrix/enable.12	bool: 1
 /matrix/enable.13	bool: 1
 /matrix/enable.14	bool: 1
@@ -27,13 +27,13 @@
 /matrix/enable.3	bool: 1
 /matrix/enable.4	bool: 1
 /matrix/enable.5	bool: 1
-/matrix/enable.6	bool: 1
-/matrix/enable.7	bool: 1
+/matrix/enable.6	bool: 0
+/matrix/enable.7	bool: 0
 /matrix/enable.8	bool: 1
 /matrix/enable.9	bool: 1
 /matrix/line_width	float: 0.5
 /matrix/point_size	float: 0.5
-/matrix/poly_mode	list: [float: 0, float: 0]
+/matrix/poly_mode	list: [int: 0, int: 0]
 /matrix/pos.1	float: 1
 /matrix/pos.10	float: 10
 /matrix/pos.11	float: 11
